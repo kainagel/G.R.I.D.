@@ -1,2 +1,5 @@
+pattern	0+	5+	10+	15+	20+	25+	30+	35+	40+	45+	50+	55+	60+
+h---w	1	0	0	0	0	0	0	0	0	0	0	0	98
+w---h	1	0	1	0	0	1	0	1	0	1	0	0	94
 
-average trip duration: no trips!
+average trip duration: 33512.67676767677 seconds = 09:18:32

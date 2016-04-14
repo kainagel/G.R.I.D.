@@ -18,7 +18,8 @@ public class GRID_SIM {
 
 		System.out.println("It's not hard--you just gotta use finesse!");
 		
-		String configFile = Utils.chooseFile();
+//		String configFile = Utils.chooseFile();
+		String configFile = "config/Small.xml" ;
 	        
 	    if (configFile == "") {
 	    	System.out.println("You didn't chose a config file!!!");
@@ -43,6 +44,7 @@ public class GRID_SIM {
 		} 
 		
 		catch ( Exception ee ) {
+			ee.printStackTrace();
 			Logger.getLogger("There was an exception: \n" + ee);
 			
 			// if one catches an exception, then one needs to explicitly fail the test:

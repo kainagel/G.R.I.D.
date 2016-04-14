@@ -7,7 +7,7 @@
 
 	<person id="1" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" link="1" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" link="1" end_time="06:00:00" />
 			<leg mode="car">
 				<route type="links">1 2 3 4 5 6 7 8 9</route>
 			</leg>
@@ -15,7 +15,7 @@
 			<leg mode="car">
 				<route type="links">9 8 7 6 5 4 3 2 1</route>
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -26,13 +26,13 @@
 
 	<person id="10" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -43,13 +43,13 @@
 
 	<person id="11" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -60,13 +60,13 @@
 
 	<person id="12" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -77,13 +77,13 @@
 
 	<person id="13" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -94,13 +94,13 @@
 
 	<person id="14" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -111,13 +111,13 @@
 
 	<person id="15" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -128,13 +128,13 @@
 
 	<person id="16" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -145,13 +145,13 @@
 
 	<person id="17" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -162,13 +162,13 @@
 
 	<person id="18" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -179,13 +179,13 @@
 
 	<person id="19" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -196,13 +196,13 @@
 
 	<person id="2" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -213,13 +213,13 @@
 
 	<person id="20" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -230,13 +230,13 @@
 
 	<person id="21" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -247,13 +247,13 @@
 
 	<person id="22" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -264,13 +264,13 @@
 
 	<person id="23" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -281,13 +281,13 @@
 
 	<person id="24" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -298,13 +298,13 @@
 
 	<person id="25" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -315,13 +315,13 @@
 
 	<person id="26" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -332,13 +332,13 @@
 
 	<person id="27" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -349,13 +349,13 @@
 
 	<person id="28" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -366,13 +366,13 @@
 
 	<person id="29" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -383,13 +383,13 @@
 
 	<person id="3" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -400,13 +400,13 @@
 
 	<person id="30" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -417,13 +417,13 @@
 
 	<person id="31" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -434,13 +434,13 @@
 
 	<person id="32" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -451,13 +451,13 @@
 
 	<person id="33" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -468,13 +468,13 @@
 
 	<person id="34" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -485,13 +485,13 @@
 
 	<person id="35" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -502,13 +502,13 @@
 
 	<person id="36" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -519,13 +519,13 @@
 
 	<person id="37" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -536,13 +536,13 @@
 
 	<person id="38" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -553,13 +553,13 @@
 
 	<person id="39" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -570,13 +570,13 @@
 
 	<person id="4" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -587,13 +587,13 @@
 
 	<person id="40" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -604,13 +604,13 @@
 
 	<person id="41" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -621,13 +621,13 @@
 
 	<person id="42" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -638,13 +638,13 @@
 
 	<person id="43" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -655,13 +655,13 @@
 
 	<person id="44" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -672,13 +672,13 @@
 
 	<person id="45" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -689,13 +689,13 @@
 
 	<person id="46" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -706,13 +706,13 @@
 
 	<person id="47" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -723,13 +723,13 @@
 
 	<person id="48" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -740,13 +740,13 @@
 
 	<person id="49" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -757,13 +757,13 @@
 
 	<person id="5" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -774,13 +774,13 @@
 
 	<person id="50" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -791,13 +791,13 @@
 
 	<person id="51" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -808,13 +808,13 @@
 
 	<person id="52" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -825,13 +825,13 @@
 
 	<person id="53" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -842,13 +842,13 @@
 
 	<person id="54" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -859,13 +859,13 @@
 
 	<person id="55" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -876,13 +876,13 @@
 
 	<person id="56" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -893,13 +893,13 @@
 
 	<person id="57" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -910,13 +910,13 @@
 
 	<person id="58" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -927,13 +927,13 @@
 
 	<person id="59" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -944,13 +944,13 @@
 
 	<person id="6" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -961,13 +961,13 @@
 
 	<person id="60" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -978,13 +978,13 @@
 
 	<person id="61" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -995,13 +995,13 @@
 
 	<person id="62" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1012,13 +1012,13 @@
 
 	<person id="63" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1029,13 +1029,13 @@
 
 	<person id="64" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1046,13 +1046,13 @@
 
 	<person id="65" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1063,13 +1063,13 @@
 
 	<person id="66" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1080,13 +1080,13 @@
 
 	<person id="67" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1097,13 +1097,13 @@
 
 	<person id="68" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1114,13 +1114,13 @@
 
 	<person id="69" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1131,13 +1131,13 @@
 
 	<person id="7" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1148,13 +1148,13 @@
 
 	<person id="70" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1165,13 +1165,13 @@
 
 	<person id="71" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1182,13 +1182,13 @@
 
 	<person id="72" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1199,13 +1199,13 @@
 
 	<person id="73" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1216,13 +1216,13 @@
 
 	<person id="74" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1233,13 +1233,13 @@
 
 	<person id="75" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1250,13 +1250,13 @@
 
 	<person id="76" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1267,13 +1267,13 @@
 
 	<person id="77" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1284,13 +1284,13 @@
 
 	<person id="78" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1301,13 +1301,13 @@
 
 	<person id="79" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1318,13 +1318,13 @@
 
 	<person id="8" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1335,13 +1335,13 @@
 
 	<person id="80" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1352,13 +1352,13 @@
 
 	<person id="81" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1369,13 +1369,13 @@
 
 	<person id="82" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1386,13 +1386,13 @@
 
 	<person id="83" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1403,13 +1403,13 @@
 
 	<person id="84" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1420,13 +1420,13 @@
 
 	<person id="85" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1437,13 +1437,13 @@
 
 	<person id="86" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1454,13 +1454,13 @@
 
 	<person id="87" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1471,13 +1471,13 @@
 
 	<person id="88" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1488,13 +1488,13 @@
 
 	<person id="89" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1505,13 +1505,13 @@
 
 	<person id="9" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1522,13 +1522,13 @@
 
 	<person id="90" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1539,13 +1539,13 @@
 
 	<person id="91" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1556,13 +1556,13 @@
 
 	<person id="92" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1573,13 +1573,13 @@
 
 	<person id="93" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1590,13 +1590,13 @@
 
 	<person id="94" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1607,13 +1607,13 @@
 
 	<person id="95" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1624,13 +1624,13 @@
 
 	<person id="96" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1641,13 +1641,13 @@
 
 	<person id="97" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1658,13 +1658,13 @@
 
 	<person id="98" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
@@ -1675,13 +1675,13 @@
 
 	<person id="99" employed="yes">
 		<plan selected="yes">
-			<act type="h" x="0.0" y="0.0" end_time="06:00:00" />
+			<act type="h" x="1.0" y="0.0" end_time="06:00:00" />
 			<leg mode="car">
 			</leg>
 			<act type="w" x="100000.0" y="100000.0" end_time="16:00:00" />
 			<leg mode="car">
 			</leg>
-			<act type="h" x="0.0" y="0.0" />
+			<act type="h" x="1.0" y="0.0" />
 			<leg mode="car">
 			</leg>
 		</plan>
